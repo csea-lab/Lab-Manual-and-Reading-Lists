@@ -141,8 +141,10 @@ Time off is encouraged and respected. Paralleling hours above, there is some fle
 ## Lab Activities
 
 ### Weekly Lab Meeting
+Regular lab meetings are held Fridays 4:00 PM to 6:00 PM in the conference room, 5th floor, Ayers Building. Everyone is welcome and, for graduate students and post-docs in particular, attendence is expected. Lab meetings are a great way to interact with other researchers in our group, learn about what everybody is doing and ask questions. Eevryone should bring a slide or two at least about what they did in the past week. Long presentations are not encouraged, but often it makes meetings more fun and engaging when we all get to see the many facets of lab work: conceptual things that you found in a reading, a method you tried or learned about, or something you did with your own data are all fair game. Plus, there are snacks and refreshments at 5 PM! 
 
 ### Individual Meetings with the PI
+The PI will strive to meet regularly with all lab members, especially those engaged in active research. Those engaged in active research activities will schedule at least 45 minutes weekly at a fixed time and day. This times serves for catching up on progress, and for fixing smaller issues, going over text or code, or discussing science or admin topics that have come up. If you cannot make a weekly meeting, please let the PI know, he will then be able to use the time that opens up for hiom more productively. 
 
 ### Training Workshops
 
