@@ -17,11 +17,15 @@
    - [Work Hours & Attendance](#work-hours--attendance)
    - [Vacation & Leave](#vacation--leave)
    - [Authorship & Data Sharing](#authorship--data-sharing)
+   - [Conflic Resolution](#conflict-resolution)
+   - [Taking Initative and Scholarly Conduct](#taking-iniative-and-scholarly-conduct)
 5. [Practical Information](#practical-information)
    - [Lab Access & Safety](#lab-access--safety)
    - [Lab Notebooks & Documentation](#lab-notebooks--documentation)
    - [Technical Resources](#technical-resources)
    - [Equipment Use](#equipment-use)
+   - [IRB policies](#institutional-review-board-irb-policies)
+   - [Participant recruitment through SONA](#participant-recruitment-through-the-sona-system)
 6. [Resources](#resources)
 
 ---
@@ -69,15 +73,19 @@ Andreas can be a resource for you in the following ways:
 ### Postdoctoral Researchers
 If you are in the lab as a post-doctoral trainee, you are in the process of training towards a poition in academia or industry. Your exact role and responsibilities will vary based on your stated career goals. Typically, post-doctoral researchers engage in the following activities: 
 - They lead independent subprojects that are aligned with the lab's mission and funding situation, in cordination with the PI. 
+- They contribute to the advancement of statistical and computational approaches to data analysis within the lab, generating new insights that refine existing theories and inform the development of new theoretical frameworks in the field.
 - They independently mentor graduate and undergraduate researchers who work on those subprojects.
 - They contribute to grant writing and publications by providing near-complete drafts, working towards academic independence from the PI.
 - They serve as role models for best research practices, embody passion for science, and are a resource of information and guidance for yournger researchers, complementing the role of the PI above.
 - They represent the laboratory at conferences and meetings and assist the PI in higher-level tasks such as study planning, experimental design, and method/algorithm development. 
 
-If you are a post-doctoral researcher in the lab, you will typically aim to practice overseeing more than one research project, and being simultaneously involved in study planning, execution, data analysis, and manuscript preparation/dissemination as well as grant writing. Effectively keeping up with many competing tasks is an acquired skill that benefits from practice; it is also crucial for jobs in academic or industry careers. You will meet with the PI at least weekly. Meetings include the joint development and implementation of tailored training steps that help you advance towards your goal. Depending on the nature and source of the funding for your position, you may be given responsibility for work that is funded under a given grant project. 
+#### Training goals and career development
+- If you are a post-doctoral researcher in the lab, you will typically aim to practice overseeing more than one research project, and being simultaneously involved in study planning, execution, data analysis, and manuscript preparation/dissemination as well as grant writing. Effectively keeping up with many competing tasks is an acquired skill that benefits from practice; it is also crucial for jobs in academic or industry careers. You will meet with the PI at least weekly. Meetings include the joint development and implementation of tailored training steps that help you advance towards your goal. Depending on the nature and source of the funding for your position, you may be given responsibility for work that is funded under a given grant project. 
+- Teaching is an important part of your career development. As your supervisor, I may occasionally involve you in teaching activities (e.g., co-teaching specific topics) in courses I lead, to ensure you are developing this skill alongside your other professional competencies.
+- Actively searching for and applying to training and career development grants (e.g., K99, K01) is highly encouraged. I will do my best to support you in preparing and submitting competitive applications.
 
 ### International Visitors
-The laboratory often has international visitors who join us for a period of time to exchange ideas, or to receive training in one of the areas of expertise in the lab. If you are an international visitor, we will work with you to support obtaining the appropriate visa for your stay in the United States.  Please contact the lab manager and the Pi (Andreas) well ahead of time about how to aproach the visa process. In addition, togther with the PI, there will be a plan in place to ensure that you may accomplish your research and training goals. 
+The laboratory often has international visitors who join us for a period of time to exchange ideas, or to receive training in one of the areas of expertise in the lab. If you are an international visitor, we will work with you to support obtaining the appropriate visa for your stay in the United States.  Please contact the lab manager and the PI (Andreas) well ahead of time about how to aproach the visa process. In addition, togther with the PI, there will be a plan in place to ensure that you may accomplish your research and training goals. While we are excited to share our work, we are equally eager to hear about yours, and we warmly welcome you to present your data, ideas, and theoretical insights during your visit.
 
 ### Graduate Students
 If you are a graduate student in the laboratory, this means that you have applied to the UF Psychology Behavioral and Cognitive Neuroscience (BCN) program, and have secured one of few very competitive spots in the program, or that you have been admitted to anoyther UF graduate program and are co-mentored by the PI. Congratulations! Graduate regulations are [here for the Psychology department](https://psych.ufl.edu/wp-content/uploads/sites/75/Grad-Regulations-summer-2025.pdf) and [here for the BCN area](https://psych.ufl.edu/behavioral-and-cognitive-neuroscience/graduate-information/). The BCN program more broadly, and our lab in particular embraces an apprenticeship training style. This means that there are no lab rotations and there is less emphasis on taking many classes. Instead, graduate training at LB3 has a strong emphasis on training on the job, where from the first year, you will be learning and performing some of the tasks of a more senior researcher, under the guidance of the PI and other lab members. Initially, these tasks will typically involve learning to analyze existing data, and contributing to the preparation of manuscripts. followed by increasingly independent contribution to the lab's research. Over time, you will also be asked to mentor undergraduate researchers, and participate in the lab's collaborative and support activities, which often involve consultations with and training of researchers outside UF. 
@@ -89,7 +97,7 @@ A typical graduate student career may look like this:
 - **Year 4**: Start dissertation work; work toward strong conceptual understanding of area of research, and discipline as a whole; know the animal model research that informs your own research. Practice grant writing and expand knowledge of grant opportunities and mechanisms. Independently implement, trouble-shoot, conduct dissertation research in close coordination with mentor; write and test analysis scripts in matlab, R, or python; prepare analyses, iuncluding appropriate statistical inference; start to write up dissertation research and publish master's research or other pre-dissertation projects. 
 - **Year 5**: Finish up dissertation; plan post-doctoral career in academia, industry, or other sector, in close communication woth mentor. Write-up and publish dissertation manuscript(s). Practice towards activities such as interviewing for positions, networking towards inducstry jobs, writing post-doc grants. Let your mentor know where you would like your farewell dinner/party to take place. 
 
-Training in human neuroscience can be, and should be, very gratifying and fun for people with an inquisitive mind. We are tackling some of the most fascinating problems that exist in science, and we are a strong community of like-minded people. Despite all this, graduate training can be a stressful time and many of us had or have difficulties with this role, feeling inadequate, overwhelmed, or tired. The PI is committed to help you deal with challenges that affect your ability to enjoy your training. There also many other resources available on campus, through various entities and groups. In the case of conflict, please follow the conflict resolution policies of the lab, which involve bringing potential conflict to the PI early and without hesitation. 
+Training in human neuroscience can be, and should be, very gratifying and fun for people with an inquisitive mind. We are tackling some of the most fascinating problems that exist in science, and we are a strong community of like-minded people. Despite all this, graduate training can be stressful and many of us had or have difficulties with this role, feeling inadequate, overwhelmed, or tired. The PI is committed to help you deal with challenges that affect your ability to enjoy your training. There also many other resources available on campus, through various institutions and groups. In the case of conflict, please follow the conflict resolution policies of the lab, which involve bringing potential conflict to the PI early and without hesitation. 
 
 ### Post-Baccalaureate Researchers
 Post-baccalaureate researchers may fill several roles in the laboratory. Many post-baccs have graduated from a 4-year program and are looking to gain additional research experience by working in our laboratory. They plan to apply to graduate programs in the future, typically after 2-3 years of doing research with us. To take full advantage of this opportunity, post-baccs typically spend as much time in the lab as possible and take initiative to get exposure to methods and concepts they find exciting. Individuals with this type of career goal will engage in the following activities: 
@@ -133,7 +141,15 @@ Time off is encouraged and respected. Paralleling hours above, there is some fle
 - Open science practices are implemented for all new studies. The designated first author is responsible for ensuring a correct and complete pre-registration to the extent possible. Re-analyses may involve different types of pre-registration. The lab uses OSF for pre=registrations of studies as well as code sharing and documentation. The lab also uses GitHub for maintaining and organizing code. New lab members should make themselves familiar with these processes. Usage of our lab's [Github repository](https://github.com/csea-lab/csea-lab) is decribed below in greater detail. 
 
 ### Conflict Resolution
-- Conflicts may always arise where people interact in a workplace and our lab is not different. 
+- Conflicts may always arise where people interact in a workplace and our lab is not different. If a lab member is concerned or uncomfortable with any part of the workplace, please bring this concern to the PI early and clearly. UF has strict policies for workplace safety and against retaliation. If you say something, there will not be any negative outcomes. It is the PI's job to ensure ythat the lab is a welcoming and inclusive place, where people are respected (see above under[Ethics & Guiding Principles](#ethics--guiding-principles)). Often conflicts will arise because goals are in conflict or communication needs to be improved. Being open and honest about any such issues is crucial in preventing conflict to increase. The PI is committed to prioritizing workplace issues over all other issue and he will make time for any concern tha is brought to him. If a lab member's concern is with the PI himself, then the Chair of Psychology Julia Graber (jagraber@ufl.edu), the supervisor of the PI, is a great point of contact. She will call the PI's attention to the problem and help resolve the problem. 
+
+### Taking Iniative and Scholarly Conduct
+It is expected that lab members aid in the goals and objectives of the lab through taking initiative. This includes being open-minded to trying new approaches, engaging in active and open communication with the PI and other lab members, and updating the PI on goals and interests when applicable. 
+
+- Science is a process, not an outcome: It is assumed that the scientific process is iterative, and projects will undergo a multitude of different analyses, data visualizations, and preprocessing. Lab members should anticipate this process and expect to inspect data from a variety of perspectives prior to final analyses. 
+- Communication: Included in initiative is presenting updates and project findings at weekly lab meetings. Everyone is responsible for keeping the PI informed, but also for being open about project findings with the rest of the lab. Lab members always have something to learn from other projects, and projects will benefit from ideas and contributions from other lab members, so keeping each other informed benefits all parties involved. 
+- Interests and creativity: When interested in a particular project or idea, part of the lab’s mission is to encourage lab members to learn new techniques, methods, and to explore ideas they are passionate about. If you find yourself interested in a particular topic it is expected you bring this up to the PI to help facilitate your involvement. Included in this is a lack of interest or passion about a particular project. If you find yourself despairing or frustrated, it is important to communicate this with the PI so that he can work together with you to find a solution or new approach to help facilitate your engagement in the lab. 
+
 
 ### Financial Transparency
 
@@ -147,6 +163,7 @@ Regular lab meetings are held Fridays 4:00 PM to 6:00 PM in the conference room,
 The PI will strive to meet regularly with all lab members, especially those engaged in active research. Those engaged in active research activities will schedule at least 45 minutes weekly at a fixed time and day. This times serves for catching up on progress, and for fixing smaller issues, going over text or code, or discussing science or admin topics that have come up. If you cannot make a weekly meeting, please let the PI know, he will then be able to use the time that opens up for hiom more productively. 
 
 ### Training Workshops
+The lab typically has self-organized workshops in summer, where lab members spend time exploring a specific topic, method, or technique that lab members are interested in learning nore about. Please appraoch the PI with ideas for topics and suggestions for materials, readings, code that can be used in the workshop. The typical approach for those workshops is that lab members take turns preparing content and leqding the discussion/training. 
 
 ### Brewery and Other Nights
 
@@ -176,6 +193,60 @@ The PI will strive to meet regularly with all lab members, especially those enga
 - Equipment (EEG, psychophysiology, eye-tracking) requires training before independent use.  
 - Reservations must be made using the shared online calendar.  
 - Equipment problems should be reported immediately to the PI or lab manager.  
+
+### Institutional Review Board (IRB) Policies
+•	Before collecting data for a project, lab members must be added to the project’s IRB. To do so, you will need to create a MyIRB account and complete the necessary safety trainings:
+o	You should be able to make a MyIRB account from the homepage: https://my.irb.ufl.edu/UFLIRB
+o	You'll also need to complete the IRB training (IRB803): https://irb.ufl.edu/index/requiredtraining.html
+
+•	Once you have completed these steps you should receive an email of your MyIRB account creation and approval. To verify this, log in to your MyIRB account. If all works, you will then be able to be added to and agree to participate in studies. To do so:
+
+- Contact the lab coordinator and ask to start a revision for the project you need to be added to
+- Once they have confirmed the revision is now opened, navigate to "IRB Studies" (far right tab on the homepage)
+- Then go to "Revisions" (at the top of the left-hand column under the IRB studies tab)
+- Click on "Revision 11 for IRB Study #IRB######" (will contain the project number you are being added to)
+In the left-hand column under "My Activities" click the "Agree to Participate" button and fill out the form that appears. 
+- Upon completion inform the lab coordinator
+
+•	Before participating in the study, the revision will still need to be approved. To be approved, the PI will need to submit the revision, and then the IRB must approve the study. It is not until this step that you are officially added to the project. If in doubt, check in frequently with the PI and lab coordinator to confirm if the IRB has been submitted and approved. 
+
+#### Submitting IRBs:
+•	All projects must first undergo approval by the Institutional Review Board. Generally, the lab coordinator will be able to submit projects to the IRB on behalf of the lab, however, this process requires a few key details that must be sent to the lab coordinator first:
+- Funding information
+- Project title
+- Project description (one paragraph)
+- Protocol for project (must follow template on IRB-02 website, multi-page document detailing specific research task, implementation, and justification for research)
+- Informed consent for project (must follow template on IRB-02 website, explains relevant information from protocol document to the participant, in simplified language). 
+- Submitting a new project to the UF URB can take anywhere from several weeks to months to be approved. When anticipating the start of a new project, it is best to complete IRB information as early and quickly as possible to start the approval process. It is also expected that the lead on a project maintain active contact and communication during the IRB approval process, as there may be several questions that the project lead will be able to answer better than others. 
+
+### Participant Recruitment Through the SONA System
+•	SONA is a research platform that allows the lab to recruit from a large pool of university students. Since this platform allows for very easy, convenient, and efficient research it is important that we maintain good relations both with those running the SONA pool and the participants that volunteer for studies. This includes:
+
+- Making every effort to accommodate rescheduling (when given advance notice)
+- Being attentive to participant concerns before, during, and after a study
+- Prompt responses to emails or questions from participants
+- Meeting all SONA deadlines and actively communicating any issues to SONA
+- Ensuring we follow all SONA policies and protocol when scheduling and running studies
+
+•	As with the IRB, lab members involved in data collection for projects should be added to the relevant SONA project. To do so, you will need to email psy-2012@clas.ufl.edu and cc the PI so they can approve your account creation. 
+
+•	SONA projects are created prior to the start of the academic semester and must be connected to approved IRB projects. Information regarding guidelines and deadlines for SONA projects will be sent out in the main Discord channel. 
+
+### Purchasing materials and supplies
+•	Purchase orders are submitted to either Rachel Harris (raharris@ufl.edu) or Starla Chew-Gleason (s.chewgleason@ufl.edu). Starla is also our point of contact for SONA studies as well. Purchase orders can be submitted by anyone in the lab (with PI’s approval), using the Psychology purchase form (copy in Dropbox). Price calculations are performed automatically by the form. You will need the following information:
+
+- Requestor: You
+- Funding source: Ask the PI
+- Date: Date of order
+- Justification: Why the item is needed and how it will be used in the project (1-2 sentences is sufficient)
+- Vendor: Retailer of item
+- Item description/weblink: URL to product or brief description
+- Item #: (depends on how many items in one form)
+- Quantity: How many of the item you are ordering
+- Unit price: Price for only 1 quantity of the item
+
+Fill out the form with the relevant information and email it to either Rachel or Starla for approval, and cc the PI. 
+
 
 ---
 
