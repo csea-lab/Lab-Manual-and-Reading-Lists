@@ -71,7 +71,7 @@ Andreas can be a resource for you in the following ways:
  - Finally, Andreas has been a researcher for some time and specializes in digital signal analysis of time series data in the context of perception, emotion, and attention. He loves experimental work and computational modeling of neurophysiological; data. It is likely that you will collaborate in some form on hands-on research activities.
 
 ### Postdoctoral Researchers
-If you are in the lab as a post-doctoral trainee, you are in the process of training towards a poition in academia or industry. Your exact role and responsibilities will vary based on your stated career goals. Typically, post-doctoral researchers engage in the following activities:
+If you are in the lab as a post-doctoral trainee, you are in the process of training towards a position in academia or industry. Your exact role and responsibilities will vary based on your stated career goals. Typically, post-doctoral researchers engage in the following activities:
 - They lead independent subprojects that are aligned with the lab's mission and funding situation, in cordination with the PI.
 - They contribute to the advancement of statistical and computational approaches to data analysis within the lab, generating new insights that refine existing theories and inform the development of new theoretical frameworks in the field.
 - They independently mentor graduate and undergraduate researchers who work on those subprojects.
@@ -175,7 +175,17 @@ The lab typically has self-organized workshops in summer, where lab members spen
 
 ### Lab Access & Safety
 - Access requires key card approval and safety training.  
-- Emergency exits, safety equipment, and reporting procedures must be reviewed by all new members.  
+- Emergency exits, safety equipment, and reporting procedures must be reviewed by all new members.
+
+### Training Courses
+- All lab members, and visitors whose activities involve participation in lab projects, are required to complete specific online training courses before they are permitted to engage in certain tasks (e.g., data collection, data access, or data sharing).
+The required trainings depend on the individual’s role, responsibilities, etc., and must be renewed periodically. Examples include:
+•	Information Security Training
+•	IRB (Human Subjects) Training
+•	Title IX Training for University of Florida Employees
+•	MR Safety Training
+•	...
+- Please ensure that any trainings required for your role are completed and kept up to date. Required courses are typically listed under “myTraining” in your University of Florida account.
 
 ### Lab Notebooks & Documentation
 - Every project must have a **shared folder** with:
