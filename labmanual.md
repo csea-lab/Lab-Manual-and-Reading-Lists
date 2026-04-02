@@ -263,16 +263,12 @@ Fill out the form with the relevant information and email it to either Rachel or
 
 ## Resources
 - **Key Contacts**:
-  - IT support: [Name/email]
-  - IRB office: [link]
-  - Safety officer: [Name/email]
-- **University Policies**:
-  - [Research Integrity Guidelines]
-  - [Human Subjects Training]
-  - [HR Leave Policies]
-- **Recommended Reading**:
-  - Luck, S. J. (2014). *An Introduction to the Event-Related Potential Technique*.  
-  - APA Ethical Principles of Psychologists.  
-  - Lab-authored methods papers.  
+  - IT support: 
+  
+    UF-wide issues with your GatorLink account or Software access at the UF level: (352) 392-HELP (4357) helpdesk@ufl.edu
+
+    Psychology department IT, for issues with our licenses and our computers, including user and permission issues: (352) 273-2120 helpdesk@psych.ufl.edu
+
+
 
 ---
