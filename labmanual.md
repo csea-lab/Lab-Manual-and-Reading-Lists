@@ -166,16 +166,17 @@ The PI will strive to meet regularly with all lab members, especially those enga
 The lab typically has self-organized workshops in summer, where lab members spend time exploring a specific topic, method, or technique that lab members are interested in learning nore about. Please appraoch the PI with ideas for topics and suggestions for materials, readings, code that can be used in the workshop. The typical approach for those workshops is that lab members take turns preparing content and leqding the discussion/training.
 
 ### Brewery and Other Nights
+The lab tries to go out regularly if possible to be able to interact in a non-work environment. For example, this may involve visiting breweries or other venues together. It is important to keep in mind that these activities are completely optional and no disadvantage arises from not participating.
 
 ### Going to Conferences
-
+Some lab members may wish to attend conferences in our field, often held annually. Typical conferences include the Annual meetings of the Vision Science Society (VSS), the Society for Psychophysiological Research (SPR), the Society for Neuroscience (SFN), or the Cognitive Neuroscience Society (CNS). Going to a conference with the appropriate goals in mind can be rewarding. If you are thinking about going, please approach the PI early. Deadlines for submissions tend to be way ahead of the meeting, and it is normally expected to participate in a meeting with a contribution such as a poster or talk, which you submit at a given deadline before the conference, often about 4-6 months out. There can be funding available through the lab, but there are often also travel grants to apply for, which are nice to have and strengthen yoru CV as they show awareness of the need for funding, competitiveness for funding, and being able to submit proposals on time. If funding from the lab is needed, please estimate the amount and share with the PI as early as possible to be included in finance planning. 
 ---
 
 ## Practical Information
 
 ### Lab Access & Safety
-- Access requires key card approval and safety training.  
-- Emergency exits, safety equipment, and reporting procedures must be reviewed by all new members.
+- Access requires knoweldge of the door code during working hours and days. After hours access to the building requires extra clearance and a valid UF ID with magnetic strip. If you wish to obtain after-hours access (after 6 PM, weekends, holidays), please let the PI and reseracg coordinator know. Then contact the Ayers building admin, for example Stephanie Giles (stephwil@ufl.edu).   
+- Please get acquainted with whene emergency exits, and safety equipment is located. In the case of a fire alarm, please do use the stairs if you are able, not the elevators. 
 
 ### Training Courses
 - All lab members, and visitors whose activities involve participation in lab projects, are required to complete specific online training courses before they are permitted to engage in certain tasks (e.g., data collection, data access, or data sharing).
@@ -191,7 +192,7 @@ The required trainings depend on the individual’s role, responsibilities, etc.
 - Every project must have a **shared folder** with:
   - A README describing purpose, data structure, and status.
   - Clear documentation of analysis scripts.  
-- Weekly updates are expected in lab notebooks (electronic or paper).  
+  - Clear documentation of the sample, and any procedures, including the SOP for the study.  
 
 ### Technical Resources
 - Secure server for data storage: `/projects/[name]`  
