@@ -1,5 +1,5 @@
 # Lab Manual for the Laboratory for Brain, Body, & Behavior at the University of Florida
-*Version 1.0 – Last updated: 2025-09-27
+*Version 1.1 – Last updated: 2026-04-02
 
 ---
 
@@ -170,7 +170,6 @@ The lab tries to go out regularly if possible to be able to interact in a non-wo
 
 ### Going to Conferences
 Some lab members may wish to attend conferences in our field, often held annually. Typical conferences include the Annual meetings of the Vision Science Society (VSS), the Society for Psychophysiological Research (SPR), the Society for Neuroscience (SFN), or the Cognitive Neuroscience Society (CNS). Going to a conference with the appropriate goals in mind can be rewarding. If you are thinking about going, please approach the PI early. Deadlines for submissions tend to be way ahead of the meeting, and it is normally expected to participate in a meeting with a contribution such as a poster or talk, which you submit at a given deadline before the conference, often about 4-6 months out. There can be funding available through the lab, but there are often also travel grants to apply for, which are nice to have and strengthen yoru CV as they show awareness of the need for funding, competitiveness for funding, and being able to submit proposals on time. If funding from the lab is needed, please estimate the amount and share with the PI as early as possible to be included in finance planning. 
----
 
 ## Practical Information
 
@@ -269,6 +268,6 @@ Fill out the form with the relevant information and email it to either Rachel or
 
     Psychology department IT, for issues with our licenses and our computers, including user and permission issues: (352) 273-2120 helpdesk@psych.ufl.edu
 
-
+## Introductory Readings
 
 ---
