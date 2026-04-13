@@ -19,14 +19,17 @@
    - [Authorship & Data Sharing](#authorship--data-sharing)
    - [Conflic Resolution](#conflict-resolution)
    - [Taking Initative and Scholarly Conduct](#taking-iniative-and-scholarly-conduct)
-5. [Practical Information](#practical-information)
+5. [Pre-registration and open science](#pre-registration-and-open-science)
+   - [Pre-registrations](#pre-registrations)
+   - [Code sharing and data sharing](#code-sharing-and-data-sharing )
+6. [Practical Information](#practical-information)
    - [Lab Access & Safety](#lab-access--safety)
    - [Lab Notebooks & Documentation](#lab-notebooks--documentation)
    - [Technical Resources](#technical-resources)
    - [Equipment Use](#equipment-use)
    - [IRB policies](#institutional-review-board-irb-policies)
    - [Participant recruitment through SONA](#participant-recruitment-through-the-sona-system)
-6. [Resources](#resources)
+7. [Resources](#resources)
 
 ---
 
@@ -45,11 +48,9 @@ These standards include:
 - **Inclusivity & respect**: The lab wants to be a welcoming and inclusive environment for all people who are passionate about research, from all countries, backgrounds, and perspectives. We honestly and openly debate science and strive to make each other better researchers, but we do so in a caring and respectful manner. Discrimination based on personal characteristics or preferences has no place in our lab. The PI is committed to prioritizing the well-being of lab members over all other goals.
 - **Human participants protection**: Human research cannot take place without the participation of volunteers. The lab is driven by respect and care for research participants, striving to make every participant feeling valued and comfortable. This includes a committment to the highest standards of ethical research practices, rule compliance, confidentiality, and data security.
 
-
 ---
 ## Overview: LB3 structure & organization
 ---
-
 ## Roles & Responsibilities
 The following paragraphs describe the roles and responsibilities of different lab members, organized by roles that vary in level of experience. Roles below serve as an approximation. The lab is not organized as a hierarchy of academic titles. Instead, access to and impact on our science are based on motivation, presence/participation in the lab, and competence. Lab members with abilities, motivation, and knowledge in a given area of our activities will have substantial impact on that area, regardless of academic title. It is important that everyone share their views, concerns, questions, and contributions regardless of formal title. The [weekly lab meeting](#weekly-lab-meeting), and [weekly individual meetings](#individual-meetings-with-the-pi) with the PI are intended to facilitate such communications.
 
@@ -118,9 +119,7 @@ One imporant component of the lab's mission is to provide reserch training to UF
 Typically, undergraduate RAs start out their career with us by performing recording sessions under supervision. They may after initial training be able to operate one of the EEG laboratories, recording variables such as brain electric activity, eye gaze, pupil diameter, heart rate, and respiration. As individuals in this role become more comfortable, they may ask for training in additional reserch skills such as literature review, data processing, and statistical analysis. At times, such activities will lead to an honor's thesis. If this is a desired outcome, then this should be arranged with the PI at least 2 semesters before the planned completion of the thesis.
 
 ---
-
 ## Lab Policies
-
 ### Work Hours & Attendance
 The research process is intrinsically variable in its working hours, because some aspects of doing research are self-initiated and self-controlled, allowing people to some extent to work during their preferred hours. Other aspects of the job however are not fleixble and may occur at hours that are inconvenient for a given person, for example scientific conferences, meetings with researchers in other time zones, data recording sessions with specific populations of people, review panels, etc. This can have positive and negative consequences. Our goal is to maximize the former and minimze the latter. The following principles guide lab attendance
 - Flexibility is valued where possible: Getting the work done is more important than strict hours.
@@ -132,7 +131,6 @@ The research process is intrinsically variable in its working hours, because som
 Time off is encouraged and respected. Paralleling hours above, there is some flexibility, especially when communicating your plans early and clearly. We use a calendar to organize business and personal absences, but it does not hurt to email or discord your plans to the PI and a research coordinator.
 - **Vacation**: It is best to let the PI know a few weeks out that you will be on vacation, as it helps with planning of lab activities and helps to avoid suprises.
 - **Sick leave**: Please notify PI or supervisor ASAP, so that we know if you need anything, and if you are OK. This is particularly important for interantional visitors.
-
 
 ### Authorship & Data Sharing
 - Authorship is based on **intellectual contribution**, not seniority.  
@@ -150,9 +148,16 @@ It is expected that lab members aid in the goals and objectives of the lab throu
 - Communication: Included in initiative is presenting updates and project findings at weekly lab meetings. Everyone is responsible for keeping the PI informed, but also for being open about project findings with the rest of the lab. Lab members always have something to learn from other projects, and projects will benefit from ideas and contributions from other lab members, so keeping each other informed benefits all parties involved.
 - Interests and creativity: When interested in a particular project or idea, part of the lab’s mission is to encourage lab members to learn new techniques, methods, and to explore ideas they are passionate about. If you find yourself interested in a particular topic it is expected you bring this up to the PI to help facilitate your involvement. Included in this is a lack of interest or passion about a particular project. If you find yourself despairing or frustrated, it is important to communicate this with the PI so that he can work together with you to find a solution or new approach to help facilitate your engagement in the lab.
 
-
 ### Financial Transparency
+- Lab funding comes largely from tax payer money. As a lab we want to be excellent stewarts of these funds. In addition, the PI wants to be fully transparent regarding the financial situation of the lab. regular updates about grants and funding are given at lab meetings. In addition, if you have questions, the PI is happy to explain the funding environment and resources available to us. 
+___
+## Pre-registration and open science
+### Pre-registrations
+- Our lab is committed to pre-registering our studies. This means that before starting data collection, we create a site on the [Open Sience Framework](https://osf.io), where we document our goals, methods, hypotheses, stimulus materials and experimental design. If planning a new study, please contact the PI about pre-registering your work. This process is part of larger efforts in the field to make reserach more systematic, accessible, and open for everybody. It is recommended that you make an account there. Ideally you can access it using the unique identifier for researchers called [ORCID](https://orcid.org). Getting a free ORCID account is a good idea. 
 
+### Code sharing and data sharing 
+- This principle also applies to code sharing. We share our code on a platform called [GitHub](https://github.com/csea-lab). You may wish to get a free account there as well. This platform uses software called [git](https://www.getint.io/blog/what-is-github?gad_source=1&gad_campaignid=16764156928&gbraid=0AAAAACNIeVq7wfTINB1n4sOcXhDN4_2Hv&gclid=EAIaIQobChMIpcPN583ckwMV4Ud_AB0jiC4EEAMYASAAEgIarPD_BwE) and you may want to read up on how it works under the hood using the link. For convenience, many of us use [Github Desktop](https://github.com/apps/desktop), which makes it easier to track eveyone's code changes and keeping up with the newest versions of code that the lab uses. 
+- if you write code, initially, it should be shared on our [GitHub](https://github.com/csea-lab) repository (the collection of software and code we wrote and that we use) to the [development folder](https://github.com/csea-lab/csea-lab/tree/master/Libas/4develop). After substantial testing and validation, it will go to an appropriate folder within the main library, which for historical reasons is called [libas](https://github.com/csea-lab/csea-lab/tree/master/Libas). The lab also has outward facing toolboxes on our GitHub repository
 ---
 ## Lab Activities
 
@@ -190,7 +195,8 @@ The required trainings depend on the individual’s role, responsibilities, etc.
 ### Lab Notebooks & Documentation
 - Every project must have a **shared folder** with:
   - A README describing purpose, data structure, and status.
-  - Clear documentation of analysis scripts.  
+  - The stimulation program file, often a psychtoolbox program 
+  - Clear documentation of data analysis scripts.  
   - Clear documentation of the sample, and any procedures, including the SOP for the study.  
 
 ### Technical Resources
@@ -202,7 +208,7 @@ The required trainings depend on the individual’s role, responsibilities, etc.
 ### Equipment Use
 - Equipment (EEG, psychophysiology, eye-tracking) requires training before independent use.  
 - Reservations must be made using the shared online calendar.  
-- Equipment problems should be reported immediately to the PI or lab manager.  
+- Equipment problems should be reported immediately to the PI or a lab manager/research coordinator.  
 
 ### Institutional Review Board (IRB) Policies
 •	Before collecting data for a project, lab members must be added to the project’s IRB. To do so, you will need to create a MyIRB account and complete the necessary safety trainings:
@@ -269,5 +275,6 @@ Fill out the form with the relevant information and email it to either Rachel or
     Psychology department IT, for issues with our licenses and our computers, including user and permission issues: (352) 273-2120 helpdesk@psych.ufl.edu
 
 ## Introductory Readings
-
----
+New to the lab? Why are we doing all these things? How do all the (constructs)[https://www.britannica.com/science/construct] and paradigms fit together? Vision? Motvation? Learning? Conditioning? Attention? Here are some introductory readings that get you started: 
+- A lot of what we do has to do with concepts reated to "emotion", which in the lab we define as disposition for action. [This paper by William James](Readings/James_WhatIsAnEmotion1884.pdf) gives a nice introductory perspective of how we can think about emotions and physiology.  It is a short reading and it was published in 1884.  Where do you agree with James? Are there any new findings in physiology, behavior, neuroscience that would make you question some of what he says ?
+- Many researchers challenged James' views, added to it, and found other ways of thinking about emotional processes. Much of this work has focused on what we often refer to as fear, anxiety, or defenive behaviors. Joe LeDoux is a neuroscientist who spent a lot of time thinking about how these constructs could be appropriately discussed by scientists. This short [opinion paper](Readings/Ledoux_Fear2014.pdf) gives a nice glimpse into this debate. Do you agree with the idea of unconscious learning and conscious fear? 
