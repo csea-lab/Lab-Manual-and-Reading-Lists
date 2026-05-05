@@ -9,19 +9,19 @@
 3. [Overview: LB3 structure & organization](#overview-lb3-structure--organization)
 3. [Roles & Responsibilities](#roles--responsibilities)
    - [Principal Investigator (PI)](#principal-investigator-pi)
-   - [Postdoctoral Fellows](#postdoctoral-fellows)
+   - [Postdoctoral Researchers](#postdoctoral-researchers)
    - [Graduate Students](#graduate-students)
    - [Post-Baccalaureate Researchers](#post-baccalaureate-researchers)
    - [Undergraduate Research Assistants](#undergraduate-research-assistants)
 4. [Lab Policies](#lab-policies)
    - [Work Hours & Attendance](#work-hours--attendance)
    - [Vacation & Leave](#vacation--leave)
-   - [Authorship & Data Sharing](#authorship--data-sharing)
    - [Conflic Resolution](#conflict-resolution)
    - [Taking Initative and Scholarly Conduct](#taking-iniative-and-scholarly-conduct)
 5. [Pre-registration and open science](#pre-registration-and-open-science)
    - [Pre-registrations](#pre-registrations)
    - [Code sharing and data sharing](#code-sharing-and-data-sharing )
+   - [Authorship](#authorship)
 6. [Practical Information](#practical-information)
    - [Lab Access & Safety](#lab-access--safety)
    - [Lab Notebooks & Documentation](#lab-notebooks--documentation)
@@ -121,22 +121,16 @@ Typically, undergraduate RAs start out their career with us by performing record
 ---
 ## Lab Policies
 ### Work Hours & Attendance
-The research process is intrinsically variable in its working hours, because some aspects of doing research are self-initiated and self-controlled, allowing people to some extent to work during their preferred hours. Other aspects of the job however are not fleixble and may occur at hours that are inconvenient for a given person, for example scientific conferences, meetings with researchers in other time zones, data recording sessions with specific populations of people, review panels, etc. This can have positive and negative consequences. Our goal is to maximize the former and minimze the latter. The following principles guide lab attendance
+The research process is intrinsically variable in its working hours, because some aspects of doing research are self-initiated and self-controlled, allowing people to some extent to work during their preferred hours. Other aspects of the job however are not flexible and may occur at hours that are inconvenient for a given person, for example scientific conferences, meetings with researchers in other time zones, data recording sessions with specific populations of people, review panels, etc. This can have positive and negative consequences. Our goal is to maximize the former and minimze the latter. The following principles guide lab attendance
 - Flexibility is valued where possible: Getting the work done is more important than strict hours.
-- Trainees should maximize the time spent in the laboratory as it enables a collaborative atmoshpere, including spontaneous projects, planning, problem-solving, or discussions. In the PI's experience, there is a direct correlation between time spend in the lab and job satifaction as well as training success. Your being in the lab allows the PI to check in with you regularly and make sure that everything is going well, as well as answer any questions.
-- Lab members must attend scheduled experiments, lab meetings, and mentoring sessions. If you can't make a schedule event for which you are responsible, please let the other lab members know and if possible arrange for someone to fill in. Also see our lave and health policies.
+- Trainees should maximize the time spent in the laboratory as it enables a collaborative atmoshpere, including spontaneous projects, planning, problem-solving, or discussions. In the PI's experience, there is a strong correlation between time spent in the lab and job satifaction as well as training success. Your being in the lab allows the PI to check in with you regularly and make sure that everything is going well, as well as answer any questions.
+- Lab members must attend scheduled experiments, lab meetings, and mentoring sessions. If you can't make a scheduled event for which you are responsible, please let the other lab members know and if possible arrange for someone to fill in. Also see our lave and health policies.
 - **Hours**: Typical work hours for graduate students and postdocs are 35–50 hrs/week. Working from home is possible but should be clearly communicated to the PI. The ability to work from home is typically growing with training and experience and is particularly hard for researchers who are early in their careers. Undergraduate RAs will typically spend ~4–8 hrs/week during semesters. importantly, there is a vast body of studies showing that balancing the time at work with meaningful and enjoyable activities outside work is key for a healty and fulfilled life. The lab is committed to enabling this lifestyle, including by promoting efficient working styles, short meetings, and encouraging taking personal time.
 
 ### Vacation & Leave
 Time off is encouraged and respected. Paralleling hours above, there is some flexibility, especially when communicating your plans early and clearly. We use a calendar to organize business and personal absences, but it does not hurt to email or discord your plans to the PI and a research coordinator.
 - **Vacation**: It is best to let the PI know a few weeks out that you will be on vacation, as it helps with planning of lab activities and helps to avoid suprises.
 - **Sick leave**: Please notify PI or supervisor ASAP, so that we know if you need anything, and if you are OK. This is particularly important for interantional visitors.
-
-### Authorship & Data Sharing
-- Authorship is based on **intellectual contribution**, not seniority.  
-- The PI makes final authorship decisions, following APA/ICMJE guidelines.  
-- Data collected in the lab belongs to the lab, but members may continue to use data they contributed to with prior approval.  
-- Open science practices are implemented for all new studies. The designated first author is responsible for ensuring a correct and complete pre-registration to the extent possible. Re-analyses may involve different types of pre-registration. The lab uses OSF for pre=registrations of studies as well as code sharing and documentation. The lab also uses GitHub for maintaining and organizing code. New lab members should make themselves familiar with these processes. Usage of our lab's [Github repository](https://github.com/csea-lab/csea-lab) is decribed below in greater detail.
 
 ### Conflict Resolution
 - Conflicts may always arise where people interact in a workplace and our lab is not different. If a lab member is concerned or uncomfortable with any part of the workplace, please bring this concern to the PI early and clearly. UF has strict policies for workplace safety and against retaliation. If you say something, there will not be any negative outcomes. It is the PI's job to ensure ythat the lab is a welcoming and inclusive place, where people are respected (see above under[Ethics & Guiding Principles](#ethics--guiding-principles)). Often conflicts will arise because goals are in conflict or communication needs to be improved. Being open and honest about any such issues is crucial in preventing conflict to increase. The PI is committed to prioritizing workplace issues over all other issue and he will make time for any concern tha is brought to him. If a lab member's concern is with the PI himself, then the Chair of Psychology Julia Graber (jagraber@ufl.edu), the supervisor of the PI, is a great point of contact. She will call the PI's attention to the problem and help resolve the problem.
@@ -158,6 +152,15 @@ ___
 ### Code sharing and data sharing 
 - This principle also applies to code sharing. We share our code on a platform called [GitHub](https://github.com/csea-lab). You may wish to get a free account there as well. This platform uses software called [git](https://www.getint.io/blog/what-is-github?gad_source=1&gad_campaignid=16764156928&gbraid=0AAAAACNIeVq7wfTINB1n4sOcXhDN4_2Hv&gclid=EAIaIQobChMIpcPN583ckwMV4Ud_AB0jiC4EEAMYASAAEgIarPD_BwE) and you may want to read up on how it works under the hood using the link. For convenience, many of us use [Github Desktop](https://github.com/apps/desktop), which makes it easier to track eveyone's code changes and keeping up with the newest versions of code that the lab uses. 
 - if you write code, initially, it should be shared on our [GitHub](https://github.com/csea-lab) repository (the collection of software and code we wrote and that we use) to the [development folder](https://github.com/csea-lab/csea-lab/tree/master/Libas/4develop). After substantial testing and validation, it will go to an appropriate folder within the main library, which for historical reasons is called [libas](https://github.com/csea-lab/csea-lab/tree/master/Libas). The lab also has outward facing toolboxes on our GitHub repository
+
+### Authorship
+- Authorship is based on **intellectual contribution**, not seniority.  
+- The PI makes final authorship decisions, following APA/ICMJE guidelines.  
+- Data collected in the lab belongs to the lab, but members may continue to use data they contributed to with prior approval.  
+- As discussed above, open science practices are implemented for all new studies. The designated first author is responsible for ensuring a correct and complete pre-registration to the extent possible. Re-analyses may involve different types of pre-registration. 
+
+### Preprints 
+- The lab's open science policies include publishing the final version of any manuscript that is submitted to a journal as a preprint on a suitable preprint server, typically [biorxiv](https://www.biorxiv.org). 
 ---
 ## Lab Activities
 
