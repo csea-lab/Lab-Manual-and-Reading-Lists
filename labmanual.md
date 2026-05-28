@@ -182,8 +182,8 @@ Some lab members may wish to attend conferences in our field, often held annuall
 ## Practical Information
 
 ### Lab Access & Safety
-- Access requires knoweldge of the door code during working hours and days. After hours access to the building requires extra clearance and a valid UF ID with magnetic strip. If you wish to obtain after-hours access (after 6 PM, weekends, holidays), please let the PI and reseracg coordinator know. Then contact the Ayers building admin, for example Stephanie Giles (stephwil@ufl.edu).   
-- Please get acquainted with whene emergency exits, and safety equipment is located. In the case of a fire alarm, please do use the stairs if you are able, not the elevators. 
+- Access requires knoweldge of the door code during working hours and days. After hours access to the building requires extra clearance and a valid UF ID with magnetic strip. If you wish to obtain after-hours access (after 6 PM, weekends, holidays), please let the PI and reserach coordinator know. Then contact the Ayers building admin, for example Stephanie Giles (stephwil@ufl.edu).   
+- Please get acquainted with where emergency exits, and safety equipment is located. In the case of a fire alarm, please do use the stairs if you are able, not the elevators. 
 
 ### Training Courses
 - All lab members, and visitors whose activities involve participation in lab projects, are required to complete specific online training courses before they are permitted to engage in certain tasks (e.g., data collection, data access, or data sharing).
@@ -196,17 +196,17 @@ The required trainings depend on the individual’s role, responsibilities, etc.
 - Please ensure that any trainings required for your role are completed and kept up to date. Required courses are typically listed under “myTraining” in your University of Florida account.
 
 ### Lab Notebooks & Documentation
-- Every project must have a **shared folder** with:
+- Every project must have a **shared folder** on dropbox with:
   - A README describing purpose, data structure, and status.
   - The stimulation program file, often a psychtoolbox program 
   - Clear documentation of data analysis scripts.  
   - Clear documentation of the sample, and any procedures, including the SOP for the study.  
 
 ### Technical Resources
-- Secure server for data storage: `/projects/[name]`  
-- Raw data is never deleted.  
+- We are working with UF on a secure server for data storage. 
+- Raw data is trasnferred to dropbox currently and is never deleted.  
 - Analysis code should be stored in lab GitHub or institutional repository.  
-- Backup procedures are in place – follow posted instructions.  
+- Backup procedures should be in place – follow posted instructions.  
 
 ### Equipment Use
 - Equipment (EEG, psychophysiology, eye-tracking) requires training before independent use.  
