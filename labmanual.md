@@ -276,6 +276,9 @@ Fill out the form with the relevant information and email it to either Rachel or
     UF-wide issues with your GatorLink account or Software access at the UF level: (352) 392-HELP (4357) helpdesk@ufl.edu
 
     Psychology department IT, for issues with our licenses and our computers, including user and permission issues: (352) 273-2120 helpdesk@psych.ufl.edu
+    
+  - When something breaks: Service Request Form for Ayers is on the bottom of this page: https://ore.ufl.edu/ayers/?gf_protect_submission=1
+
 
 ## Introductory Readings
 New to the lab? Why are we doing all these things? How do all the (constructs)[https://www.britannica.com/science/construct] and paradigms fit together? Vision? Motvation? Learning? Conditioning? Attention? Here are some introductory readings that get you started: 
